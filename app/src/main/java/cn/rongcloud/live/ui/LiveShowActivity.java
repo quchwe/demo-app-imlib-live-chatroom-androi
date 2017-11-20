@@ -151,6 +151,31 @@ public class LiveShowActivity extends FragmentActivity implements View.OnClickLi
         surfaceHolder.addCallback(surfaceCallback);
     }
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
     @Override
     public void onBackPressed() {
         if (!bottomPanel.onBackAction()) {

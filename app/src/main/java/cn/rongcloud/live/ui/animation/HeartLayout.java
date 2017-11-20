@@ -27,6 +27,7 @@ public class HeartLayout extends RelativeLayout {
 
     private AbstractPathAnimator mAnimator;
 
+
     public HeartLayout(Context context) {
         super(context);
         init(null, 0);
